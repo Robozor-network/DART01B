@@ -1,0 +1,23 @@
+﻿//
+// Toto je popisný soubor pro popis obsahu adresáře (příklad)
+//
+
+[InfoShortDescription.en]
+  Solar Cell Car
+
+[InfoShortDescription.cs]
+  Solární vozítko
+  
+[InfoLongDescription.en]
+  Solar cell car was prepared for competition in Ostrava (Czech
+  Republic). It acumulates energy in huge capacitor, uses DC/DC
+  convertor with processor based regulation for optimum energy
+  utilisation.
+
+[InfoLongDescription.cs]
+  Solární vozítko pro soutěž "Napájeni slunce", konané každoročně 
+  v Ostravě. Využívá akumulaci energie ve velkém kondenzátoru,
+  obsahuje měnič a procesorovou regulaci pro optimální využití 
+  energie.
+
+[End]
