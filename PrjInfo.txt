@@ -3,10 +3,10 @@
 //
 
 [InfoShortDescription.en]
-  Solar Cell Car
+  Solar Cell Car "DART"
 
 [InfoShortDescription.cs]
-  Solární vozítko
+  Solární vozítko DART
   
 [InfoLongDescription.en]
   Solar cell car was prepared for competition in Ostrava (Czech
