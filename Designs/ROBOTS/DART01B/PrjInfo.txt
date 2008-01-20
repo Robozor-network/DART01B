@@ -10,8 +10,8 @@
   
 [InfoLongDescription.en]
   Solar cell car was prepared for competition in Ostrava (Czech
-  Republic). It acumulates energy in huge capacitor, uses DC/DC
-  convertor with processor based regulation for optimum energy
+  Republic). It accumulates energy in huge capacitor, uses DC/DC
+  converter with processor based regulation for optimum energy
   utilisation.
 
 [InfoLongDescription.cs]
